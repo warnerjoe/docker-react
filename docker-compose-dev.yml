@@ -19,3 +19,4 @@ services:
       - .:/app
     command: ["npm", "run", "test"]
 
+
